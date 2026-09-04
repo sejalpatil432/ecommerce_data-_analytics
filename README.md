@@ -2,6 +2,12 @@
 
 A comprehensive data analysis project showcasing sales trends, profitability, customer behavior, and regional performance metrics for an e-commerce business using Power BI dashboards and detailed data exploration.
 
+## Dashboard preview
+![ecommerce_data_analytics](ecommerce_dashboard.png)
+![ecommerce_data_analytics](ecomm_2.png)
+
+
+
 ## 📊 Project Overview
 
 This project analyzes a complete e-commerce dataset with **2.62M in total sales**, **311.40K in profit**, and **5K orders**. The analysis includes interactive Power BI dashboards, visualizations, and key business insights.

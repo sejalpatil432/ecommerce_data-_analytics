@@ -4,6 +4,7 @@ A comprehensive data analysis project showcasing sales trends, profitability, cu
 
 ## Dashboard preview
 ![ecommerce_data_analytics](ecommerce_dashboard.png)
+
 ![ecommerce_data_analytics](ecomm_2.png)
 
 

@@ -32,13 +32,9 @@ This project analyzes a complete e-commerce dataset with **2.62M in total sales*
 ecommerce-data-analysis/
 │
 ├── README.md                          # Project documentation
-├── data/
-│   └── ecommerce_dataset.csv          # Main dataset file
+├──  ecommerce_dataset.csv          # Main dataset file
 │
-├── dashboards/
-    ├── Executive_Overview.pbix        # Power BI Executive Dashboard
-    └── Detailed_Analysis.pbix         # Power BI Detailed Analysis Dashboard
-
+├── ECOMM_Dashboard
 ```
 
 ## 📊 Dashboard Overview
